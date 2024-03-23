@@ -16,7 +16,7 @@ author = "BobbyXDev"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "The almighty blog of BobbyX"
 keywords = "blog,developer,personal"
-info = ["Open source is the force!", "~BobbyX"]
+info = ["Open source is the force!", "~BobbyX", "Shoutout to Sammy's two unbeatable arguments"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
