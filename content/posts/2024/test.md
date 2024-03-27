@@ -1,14 +1,6 @@
 +++
 title = "Test Page"
-
 date = 2024-03-27T15:47:00+01:00
-description = ""
-slug = ""
-authors = []
-tags = [TestTag]
-categories = [Test Test2]
-externalLink = ""
-series = []
 +++
 
 ## Test ToC
